@@ -4,7 +4,7 @@ This project is a complete data science pipeline. It includes a Jupyter Notebook
 
 ## 🚀 Live Demo
 
-**[Link to your deployed Streamlit App]** <-- *PASTE YOUR LIVE URL HERE*
+**[Link to  deployed Streamlit App]** 
 
 ## Overview
 
@@ -58,7 +58,7 @@ seo-content-detector/
 
 ```bash
 # Clone the repository
-git clone [https://github.com/your-username/seo-content-detector.git](https://github.com/your-username/seo-content-detector.git)
+git clone [https://github.com/Ciyakj/seo-content-detector.git](https://github.com/Ciyakj/seo-content-detector.git)
 cd seo-content-detector
 
 # Create and activate a virtual environment
