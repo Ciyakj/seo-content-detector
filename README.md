@@ -4,7 +4,7 @@ This project is a complete data science pipeline. It includes a Jupyter Notebook
 
 ## 🚀 Live Demo
 
-**[Link to  deployed Streamlit App]** 
+**[(https://seo-content-detector-abyyxz7txzzhoappjdtj4sc.streamlit.app/)]** 
 
 ## Overview
 
